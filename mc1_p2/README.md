@@ -1,2 +1,2 @@
 
-Portfolio optimization by maximizing it's Sharpe ratio
+Portfolio optimization by maximizing its Sharpe ratio
