@@ -1,0 +1,1 @@
+Develop trading strategies using Technical Analysis and test them using previously developed market simulator. Use also previously developed Random Tree learner to train and test a learning trading algorithm.
